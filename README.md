@@ -1,4 +1,4 @@
-# happiness-matters-workplace
+# happiness matters at workplace
 
 This dataset (as far as I understand) provides information retrieved through an informative system called HappyForce https://www.myhappyforce.com/en/  aimed at collecting data about employees satisfaction and happyness. 
 
@@ -11,7 +11,7 @@ The following answers were possible:
 - 1 Pretty Bad
 
 Whenever they want they can post this feeback about their happiness and leave a comment. The can also like or dislike comments. Plesae visit the related site for complete and correct information.
-![happyforce](https://www.myhappyforce.com/wp-content/themes/happyforce/img/app.png)
+https://www.myhappyforce.com/wp-content/themes/happyforce/img/app.png
 
 Some important references are 
 * [1] J. Berengueres, G. Duran, D. Castro, Happiness,an inside job? Turnoverprediction using employee likeability, engagement and relative happiness, ASONAM 2017, Sidney.
